@@ -1,5 +1,7 @@
 # qemu-user-static
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/qemu-user-static.svg)](https://www.guardrails.io)
+
 ### Binaries
 
 * Releases: https://github.com/multiarch/qemu-user-static/releases/
